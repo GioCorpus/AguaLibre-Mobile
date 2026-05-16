@@ -1,4 +1,5 @@
-Estructura del Proyecto: AguaLibre Mobile
+Estructura del Proyecto AguaLibre Mobile:
+
 AguaLibre Mobile es la aplicación móvil complementaria al sistema AguaLibreOS-for-the-Dron. Está diseñada para residentes de Mexicali y operadores de la flota, permitiendo solicitudes de entrega de garrafones de agua, seguimiento en tiempo real, gestión de flota y monitoreo. La aplicación prioriza usabilidad en entornos móviles, conectividad intermitente (común en colonias), bajo consumo de datos y compatibilidad con dispositivos Android e iOS.
 Objetivos Principales
 
